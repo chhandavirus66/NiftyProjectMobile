@@ -1,6 +1,5 @@
 flet
 yfinance
 pandas
-requests
 numpy
-
+requests
