@@ -1,0 +1,6 @@
+flet
+yfinance
+pandas
+requests
+numpy
+
